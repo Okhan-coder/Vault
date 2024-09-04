@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f6739f4f72ce5751",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9e17598c889a77",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General Resources.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02edad81500dac14",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49e8fe757e9a42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "293ff2bfa8d995bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df0ed09974b81541",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f2b326b66af8693",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d467a35cb080da50",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9177855a5b7c679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3309c030d5e8c468",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cb50329da3da46b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e41678d5981aa5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04e40c9cfb2e5a69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Resources.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb9e17598c889a77",
+  "lastOpenFiles": [
+    "Selecting an Open Innovative Community as an partner Looking for healthy communities.md",
+    "General Resources.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 7.md",
+    "Untitled 1.md"
+  ]
+}

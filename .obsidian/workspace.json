@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "92f2b59a5d11705c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30c61f56e6c445c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7db64e2cbde72a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 5.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10f13c83c74f2efc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95ddd04e4ad5e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aba8c2d708e4d37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffb152d61ce92f3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0cb45a947c6ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97dfd951e0e4bbd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f163fd4e731c3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d19ac1e01dc8cd17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 5.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66c8ea944d9659b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 5.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d98ef53c1666eec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ddc34910b999ad26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 5.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c7db64e2cbde72a",
+  "lastOpenFiles": [
+    "Untitled 5.canvas",
+    "2024-09-03.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Myself/C++/LearnCPP/Chapter 0 Introduction Getting Started.md",
+    "Screenshot 2024-09-03 at 3.39.57 PM.png",
+    "Screenshot 2024-09-03 at 3.36.05 PM.png",
+    "Screenshot 2024-09-03 at 3.22.52 PM.png",
+    "Screenshot 2024-09-03 at 3.04.29 PM.png",
+    "Screenshot 2024-09-03 at 3.04.00 PM.png",
+    "Myself/C++/LearnCPP/About.md",
+    "Myself/C++/Learn CPP.md",
+    "Myself/C++/LearnCPP",
+    "Myself/C++",
+    "Myself/Untitled.md",
+    "Myself/Python/Hashmaps.md",
+    "Myself/Python/Dynamic Typing in Python.md",
+    "Myself/NEETCODE LESSONS/Arrays.md",
+    "Myself/Leetcode_Problems/27. Remove Element.md",
+    "Myself/Leetcode_Problems/26.Remove Duplicates from Sorted Array.md",
+    "Myself/Project/Make Automation.md",
+    "Work/Work_Log/Untitled.md",
+    "Myself/Project",
+    "Myself/Research/Untitled 9.md",
+    "Work/Work_Log",
+    "Myself/Research/Untitled 8.md",
+    "Myself/Research/Untitled 7.md",
+    "Myself/Research/Untitled 5.md",
+    "Myself/Research/Untitled 3.md",
+    "Myself/Research/Untitled.md",
+    "Myself/Research/Untitled 2.md",
+    "Myself/Research/Untitled 1.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Three Keys.png",
+    "Screenshot 2024-05-02 at 5.37.54 PM.png",
+    "Screenshot 2024-05-02 at 5.37.41 PM.png",
+    "Screenshot 2024-05-02 at 5.35.07 PM.png",
+    "Screenshot 2024-05-02 at 5.30.07 PM.png",
+    "Myself/Git/Github Emulator.md",
+    "Myself/Research/Agentic/Communicative Agents for Software Development.md",
+    "Myself/Git",
+    "Myself/Research/Software Dependencies, Work Dependeices and their Impact on Failures.md",
+    "Myself/Research/Selecting an Open Innovative Community as an partner Looking for healthy communities.md",
+    "Myself/Research/Software Risk Prediction ML Techniques.md",
+    "Myself/Research/Agentic",
+    "Myself/Python",
+    "Myself/Projects",
+    "Work",
+    "Myself/Leetcode_Problems"
+  ]
+}

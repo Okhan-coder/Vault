@@ -1,0 +1,2 @@
+The vital role of community in open source software development: A framework for assessment and ranking
+https://www.researchgate.net/publication/376482326_The_vital_role_of_community_in_open_source_software_development_A_framework_for_assessment_and_ranking
