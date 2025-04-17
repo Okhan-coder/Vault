@@ -1,5 +1,7 @@
-Why were Languages made
+Why were Languages made 
 Due to portability issues of Machine code Assembly Language was invented
+
+<font style="color:green">Think of a caveman trying to talk to another caveman. Language allows for more complex and easier actions to be conveyed.  If you just used grunts and shouts it would be hard for others to understand, and you would be quickly exhausted.</font>
 
 One layer of abstraction from the CPU 
 
@@ -7,12 +9,13 @@ Challenging still to read entire program
 
 Assembly still not portable due to different commands
 
+<font style="color:green">Assembly was the first version of making language easier however sometimes assembly had to be coded with different commands for a cpu was still very verbose  </font>
+
 #High_Level_Languages was invented
 
 Two ways to run Languages #Compile or #Interpret
 
 C++ uses Compiler 
-
 
 ![[Screenshot 2024-09-03 at 3.04.00 PM.png]]
 
@@ -39,6 +42,8 @@ Offering Classes for Object Oriented Programming
 These were called Language Standards or Specifications named after the year of release
 
 The Motto is "trust the programmer" for both these languages. True freedom, but scary. 
+
+<font style="color:yellow"> C and C++ is the American Programming Language </font>
 
 C++ excels in situations where high performance and precise control over memory and other resources is needed. Here are a few common types of applications that most likely would be written in C++:
 
@@ -88,9 +93,9 @@ Linker comes in and combines all object files and produces an executable file
 
 First reads in each object files and ensures validity 
 
-All cross file dependency are resolved using one . for example: .cpp and used another cpp in that file
+All cross file dependency are resolved using linker for example: .cpp and used another cpp in that file
 
-Link library files precokmpiled code that been packaged to reuse in other programs
+Link library files precompiled code that been packaged to reuse in other programs
 
 C++ comes with a library called C++ standard Library
 It contains handy things like iosstream 

@@ -4,25 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "b30c61f56e6c445c",
+        "id": "a8927beab1e24d88",
         "type": "tabs",
         "children": [
           {
-            "id": "3c7db64e2cbde72a",
+            "id": "98757e902c3a1d2e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Untitled 5.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
-              }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "293bda4b03f7fea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Job Search Accelrator/Meetings/First Meeting Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Meeting Intro"
+            }
+          },
+          {
+            "id": "445428abbf3e5cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Reach outs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reach outs"
+            }
+          },
+          {
+            "id": "def78ca9e5831dfe",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,8 +97,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,12 +111,14 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,14 +126,42 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cea6f4fc1ac2eb03",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d826c8294e5ef31e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8876a36e72bac72c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5024719238281
   },
   "right": {
     "id": "97dfd951e0e4bbd4",
@@ -88,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 5.canvas",
+                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +185,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
             }
           },
           {
@@ -105,10 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 5.canvas",
+                "file": "Myself/NeoVIM/VIM Motion Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from VIM Motion Practice"
             }
           },
           {
@@ -119,7 +212,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,16 +223,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 5.canvas"
-              }
+                "file": "Myself/NeoVIM/VIM Motion Practice.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of VIM Motion Practice"
+            }
+          },
+          {
+            "id": "b417c8f84e1c8f97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,62 +255,66 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3c7db64e2cbde72a",
+  "active": "445428abbf3e5cf0",
   "lastOpenFiles": [
-    "Untitled 5.canvas",
-    "2024-09-03.md",
-    "Untitled 4.canvas",
+    "Dashboard.md",
+    "Pasted image 20250416135717.png",
+    "TO DO.md",
+    "Calendar/2025-04-17.md",
+    "Work/Job Search Accelrator/Meetings/First Meeting Intro.md",
+    "Work/Job Search Accelrator/Meetings",
+    "Myself/NeoVIM/VIM Motion Practice.md",
+    "Myself/Certification/Security +/The CIA Triad.md",
+    "Myself/NeoVIM",
+    "Myself/Certification/Security +/Security Controls.md",
+    "Myself/Certification/Security +/How to Pass Security+.md",
+    "Calendar/2025-05-23.md",
+    "Calendar/2025-05-22.md",
+    "Calendar/2025-05-21.md",
+    "Calendar/2025-05-24.md",
+    "Calendar/2025-04-21.md",
+    "Calendar/2025-04-30.md",
+    "Calendar/2025-04-29.md",
+    "Calendar/2025-04-28.md",
+    "Work/Job Search Accelrator/JSA Calendar.md",
+    "Calendar/2025-04-23.md",
+    "Calendar/2025-04-22.md",
+    "Calendar/2025-04-20.md",
+    "Calendar/2025-04-18.md",
+    "Calendar/2025-05-16.md",
+    "Calendar/2025-05-07.md",
+    "Calendar/2025-05-01.md",
+    "Calendar/2025-05-05.md",
+    "Pasted image 20250416135804.png",
+    "Pasted image 20250416135752.png",
+    "Work/Job Search Accelrator",
+    "Calendar",
+    "Untitled.canvas",
+    "Attachments/banner2.png",
+    "Attachments/DALL·E 2024-11-11 23.42.24 - A dynamic, symbolic digital banner illustration designed to influence the subconscious toward enlightenment, direction, and success, set within a vibr 1.png",
+    "Attachments/Banner.webp",
+    "Attachments/Pasted image 20240907011703.png",
+    "Attachments/Pasted image 20241016171934.png",
+    "Attachments/Screenshot 2024-09-03 at 3.39.57 PM.png",
+    "Attachments/Architecture.png",
+    "Attachments",
+    "Myself/IT/Resources",
+    "Myself/Resources",
+    "Myself/IT",
     "Untitled 3.canvas",
-    "Myself/C++/LearnCPP/Chapter 0 Introduction Getting Started.md",
-    "Screenshot 2024-09-03 at 3.39.57 PM.png",
-    "Screenshot 2024-09-03 at 3.36.05 PM.png",
-    "Screenshot 2024-09-03 at 3.22.52 PM.png",
-    "Screenshot 2024-09-03 at 3.04.29 PM.png",
-    "Screenshot 2024-09-03 at 3.04.00 PM.png",
-    "Myself/C++/LearnCPP/About.md",
-    "Myself/C++/Learn CPP.md",
-    "Myself/C++/LearnCPP",
-    "Myself/C++",
-    "Myself/Untitled.md",
-    "Myself/Python/Hashmaps.md",
-    "Myself/Python/Dynamic Typing in Python.md",
-    "Myself/NEETCODE LESSONS/Arrays.md",
-    "Myself/Leetcode_Problems/27. Remove Element.md",
-    "Myself/Leetcode_Problems/26.Remove Duplicates from Sorted Array.md",
-    "Myself/Project/Make Automation.md",
-    "Work/Work_Log/Untitled.md",
-    "Myself/Project",
-    "Myself/Research/Untitled 9.md",
-    "Work/Work_Log",
-    "Myself/Research/Untitled 8.md",
-    "Myself/Research/Untitled 7.md",
-    "Myself/Research/Untitled 5.md",
-    "Myself/Research/Untitled 3.md",
-    "Myself/Research/Untitled.md",
-    "Myself/Research/Untitled 2.md",
-    "Myself/Research/Untitled 1.md",
+    "Untitled 5.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Three Keys.png",
-    "Screenshot 2024-05-02 at 5.37.54 PM.png",
-    "Screenshot 2024-05-02 at 5.37.41 PM.png",
-    "Screenshot 2024-05-02 at 5.35.07 PM.png",
-    "Screenshot 2024-05-02 at 5.30.07 PM.png",
-    "Myself/Git/Github Emulator.md",
-    "Myself/Research/Agentic/Communicative Agents for Software Development.md",
-    "Myself/Git",
-    "Myself/Research/Software Dependencies, Work Dependeices and their Impact on Failures.md",
-    "Myself/Research/Selecting an Open Innovative Community as an partner Looking for healthy communities.md",
-    "Myself/Research/Software Risk Prediction ML Techniques.md",
-    "Myself/Research/Agentic",
-    "Myself/Python",
-    "Myself/Projects",
-    "Work",
-    "Myself/Leetcode_Problems"
+    "Myself/Certification/Security +",
+    "Myself/Certification",
+    "Untitled 4.canvas"
   ]
 }
