@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJb
 OBSIDIAN SETUP:
 (DASHBOARD)
 https://tfthacker.com/article-obsidian-dashboardplusplus2022
+Keyboard Training:
+Link for practice:
+https://www.keybr.com/
